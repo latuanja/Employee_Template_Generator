@@ -4,6 +4,7 @@
   "description": "Template Engine Employee Summary",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
     "inquirer": "^7.3.3"
   },
   "devDependencies": {
