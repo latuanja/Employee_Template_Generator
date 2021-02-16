@@ -1,0 +1,16 @@
+.team-heading {
+    background-color: rgb(3, 37, 76);
+    color: rgb(235, 231, 231);
+  }
+  .card {
+    margin: 5px;
+    border-radius: 10px;
+  }
+  
+  .card-header {
+    background-color: rgb(42, 157, 244);
+  }
+  
+  .container {
+    width: auto;
+  }
