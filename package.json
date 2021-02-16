@@ -1,0 +1,25 @@
+{
+  "name": "template_engine_employee_summary",
+  "version": "1.0.0",
+  "description": "Template Engine Employee Summary",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latuanja/Template_Engine_Employee_Summary.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/latuanja/Template_Engine_Employee_Summary/issues"
+  },
+  "homepage": "https://github.com/latuanja/Template_Engine_Employee_Summary#readme"
+}
